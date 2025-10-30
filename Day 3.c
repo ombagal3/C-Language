@@ -24,6 +24,6 @@ void main ()
 //	a=a-a;
      a-=2;
 	printf("%d",a);
-	
 }
+
 
