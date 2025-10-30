@@ -10,7 +10,6 @@ void main ()
 //	a=a-a;
      a*=2;
 	printf("%d",a);
-	
 }
 
 #include <stdio.h>
@@ -27,3 +26,4 @@ void main ()
 	printf("%d",a);
 	
 }
+
