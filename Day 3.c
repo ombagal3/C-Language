@@ -3,6 +3,7 @@
 
 void main ()
 {
+	
 	int a=10;
 //	int b=0;
 //	a=a+2;
@@ -25,5 +26,6 @@ void main ()
      a-=2;
 	printf("%d",a);
 }
+
 
 
