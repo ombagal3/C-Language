@@ -14,7 +14,6 @@ void main()
 	
 	
 
-	
 	printf("  -----  \n");
 	printf("|       |\n");
     printf("O       |\n");
@@ -42,6 +41,7 @@ void main()
     printf("*   *              *          *\n");
     printf("*                     *   *\n");
 }
+
 
 
 
