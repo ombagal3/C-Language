@@ -12,6 +12,7 @@ void main()
 	printf(" --------  \n");
 	printf("___________________________________\n");
 	
+
 	
 	printf("  -----  \n");
 	printf("|       |\n");
@@ -40,6 +41,7 @@ void main()
     printf("*   *              *          *\n");
     printf("*                     *   *\n");
 }
+
 
 
 
