@@ -10,6 +10,5 @@
  	printf("enter b");
  	scanf("%d", &b);
 
-  
  	printf("sum is : %d", a*b);
  }
