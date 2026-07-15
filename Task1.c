@@ -2,7 +2,7 @@
 #include<conio.h>
 
 void main()
- {
+ { 
  	int a, b; 
  	printf("enter a");
  	scanf("%d", &a); 
